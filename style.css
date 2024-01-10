@@ -6,14 +6,27 @@
 
 header{
     background-color: black;
-    height: 30px;
+    height: 30%;
+    display: flex;
+}
+
+header h1{
+    color: white;
+    font-size: medium;
+}
+
+header img {
+    height: 80px;
+    width: auto;
+    justify-content: flex-end;
 }
 
 main{
-    height: 30px;
+    height: 50%;
 }
 
 footer{
     background-color: red;
-    height: 30px;
+    height: 20%;
+    color: white;
 }
