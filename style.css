@@ -15,11 +15,12 @@ header h1{
     font-size: medium;
 }
 
-header img {
-    height: 80px;
-    width: auto;
-    justify-content: flex-end;
+#logo-header{
+    height: 90px;
+    width: 90px;
+    justify-content: end;
 }
+    
 
 main{
     height: 50%;
